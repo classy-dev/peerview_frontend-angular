@@ -102,6 +102,13 @@
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-6.0.9.tgz#46663338185d321dc5cabeed72bec695775a104d"
 
+"@angular/material-moment-adapter@6.3.3":
+  version "6.3.3"
+  resolved "https://registry.yarnpkg.com/@angular/material-moment-adapter/-/material-moment-adapter-6.3.3.tgz#958d69207ba5c7ad7da01b1f0a5456e85619f0d2"
+  integrity sha512-YFi1iED8gcHhCwkWGMkyJtHX/tWAsQWnRNrh1AwbWl4JW1739vPAM/OimdIijeGAZ5dVVZX4A4EscCBb74b4dA==
+  dependencies:
+    tslib "^1.7.1"
+
 "@angular/material@6.3.3":
   version "6.3.3"
   resolved "https://registry.yarnpkg.com/@angular/material/-/material-6.3.3.tgz#4f74402ba6e4b80cf0426e62c1240244e6974069"
@@ -8531,9 +8538,10 @@ timespan@2.3.x:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/timespan/-/timespan-2.3.0.tgz#4902ce040bd13d845c8f59b27e9d59bad6f39929"
 
-tinymce@4.8.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.8.0.tgz#3c4c88701d0526374efb45bafbb820c7715e2356"
+tinymce@5.7.1:
+  version "5.7.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.7.1.tgz#658a6fb4c7d53a8496cc00f8da33f4b8290da06d"
+  integrity sha512-1gY8RClc734srSlkYwY0MQzmkS1j73PuPC+nYtNtrrQVPY9VNcZ4bOiRwzTbdjPPD8GOtv6BAk8Ww/H2RiqKpA==
 
 tmp@0.0.24:
   version "0.0.24"
